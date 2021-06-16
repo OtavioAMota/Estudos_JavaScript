@@ -12,6 +12,7 @@
   },
   "author": "Otavio A. Mota",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/OtavioAMota/Estudos_JavaScript/issues"
   },
