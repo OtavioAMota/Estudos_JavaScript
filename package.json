@@ -1,0 +1,19 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank para o cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtavioAMota/Estudos_JavaScript.git"
+  },
+  "author": "Otavio A. Mota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtavioAMota/Estudos_JavaScript/issues"
+  },
+  "homepage": "https://github.com/OtavioAMota/Estudos_JavaScript#readme"
+}
